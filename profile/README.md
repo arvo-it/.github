@@ -2,22 +2,22 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:E11D2A&height=230&section=header&text=AR.VO%20IT%20Services&fontColor=FFFFFF&fontSize=54&fontAlignY=40&desc=Smart%20Development%20|%20Clear%20Delivery%20|%20Business%20Growth&descAlignY=62&descSize=18" width="100%" alt="AR.VO IT Services"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:2EE6A0&height=230&section=header&text=Arvo&fontColor=2EE6A0&fontSize=90&fontAlignY=40&desc=Smart%20Development%20|%20Clear%20Delivery%20|%20Business%20Growth&descAlignY=64&descSize=18&descColor=FFFFFF" width="100%" alt="Arvo — AR.VO IT Services"/>
 
 <a href="https://arvo.team">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=E11D2A&center=true&vCenter=true&width=760&lines=Let's+Build+Something+Smart+Together;Reliable%2C+project-driven+web+solutions;Launch+with+confidence.+Scale+with+speed." alt="Arvo tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=2EE6A0&center=true&vCenter=true&width=760&lines=Let's+Build+Something+Smart+Together;Reliable%2C+project-driven+web+solutions;Launch+with+confidence.+Scale+with+speed." alt="Arvo tagline" />
 </a>
 
 <br/>
 
-<a href="https://arvo.team"><img src="https://img.shields.io/badge/Visit%20Website-arvo.team-E11D2A?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D0D0D" alt="Website"/></a>
-<a href="https://arvo.team/#contact"><img src="https://img.shields.io/badge/Let's%20Talk-Contact%20Us-0D0D0D?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=E11D2A" alt="Contact"/></a>
+<a href="https://arvo.team"><img src="https://img.shields.io/badge/Visit%20Website-arvo.team-0D0D0D?style=for-the-badge&logo=googlechrome&logoColor=2EE6A0&labelColor=0D0D0D" alt="Website"/></a>
+<a href="https://arvo.team/#contact"><img src="https://img.shields.io/badge/Let's%20Talk-Contact%20Us-2EE6A0?style=for-the-badge&logo=maildotru&logoColor=0D0D0D&labelColor=0D0D0D" alt="Contact"/></a>
 
 </div>
 
 ---
 
-<h2 align="center">🚀 Who We Are</h2>
+<h2 align="center">Who We Are</h2>
 
 <div align="center">
 
@@ -33,26 +33,26 @@ We craft tailored digital experiences designed to **scale, convert, and empower*
 
 <div align="center">
 
-`🎯 Strategy` &nbsp;•&nbsp; `⚙️ Development` &nbsp;•&nbsp; `📈 Impact`
+`Strategy` &nbsp;•&nbsp; `Development` &nbsp;•&nbsp; `Impact`
 
 </div>
 
 ---
 
-<h2 align="center">🧩 What We Do</h2>
+<h2 align="center">What We Do</h2>
 
-| | Service | What you get |
-|:--:|:--|:--|
-| 🌐 | **Websites & Landing Pages** | Responsive, high-converting sites that make a strong first impression and drive results. |
-| 🛒 | **E-commerce** | Powerful online stores with secure payments, intuitive UX, and efficient product management. |
-| 📊 | **Dashboards** | Custom dashboards to track, manage, and analyze operations with real-time data insights. |
-| 🤖 | **AI & Web3** | Cutting-edge AI and blockchain for automation, personalization, and digital trust. |
-| 📱 | **Mobile Apps** | Cross-platform apps with smooth performance, engaging design, and seamless UX. |
-| 🧱 | **Custom Web Apps** | Tailored web applications built to your exact needs — from concept to deployment. |
+| Service | What you get |
+|:--|:--|
+| **Websites & Landing Pages** | Responsive, high-converting sites that make a strong first impression and drive results. |
+| **E-commerce** | Powerful online stores with secure payments, intuitive UX, and efficient product management. |
+| **Dashboards** | Custom dashboards to track, manage, and analyze operations with real-time data insights. |
+| **AI & Web3** | Cutting-edge AI and blockchain for automation, personalization, and digital trust. |
+| **Mobile Apps** | Cross-platform apps with smooth performance, engaging design, and seamless UX. |
+| **Custom Web Apps** | Tailored web applications built to your exact needs — from concept to deployment. |
 
 ---
 
-<h2 align="center">🛠️ Our Tech Stack</h2>
+<h2 align="center">Our Tech Stack</h2>
 
 <div align="center">
 
@@ -84,31 +84,7 @@ We craft tailored digital experiences designed to **scale, convert, and empower*
 
 ---
 
-<h2 align="center">💼 Selected Work</h2>
-
-| Project | Type | Stack | Live |
-|:--|:--|:--|:--:|
-| **Sienna Brews** — a cozy café made for slowing down, unwinding, and resetting | Design | Next.js · Tailwind · HTML5 | [↗](https://sienna-brews.vercel.app/) |
-| **Solara Grand** — a luxury resort where every moment feels truly premium | Design | Next.js · Tailwind · HTML5 | [↗](https://solara-grand.vercel.app/) |
-| **Slice** — a premium cake shop where every bite feels special | Design | Next.js · Tailwind · HTML5 | [↗](https://cake2go.vercel.app/) |
-| **Inventory System** — full company inventory: purchase/sales orders, invoices, reports | Full-Stack | PHP · CodeIgniter · jQuery · HTML5 | 🔒 Private |
-
----
-
-<h2 align="center">💰 Pricing Plans</h2>
-
-| Plan | Price | Highlights |
-|:--|:--|:--|
-| **Starter** | `$20 / mo` | Up to 3 pages · standard SEO · 5 weekly edits · hosting · 24/7 support |
-| **Growth** | `$30 / mo` | Up to 7 pages · 2 social integrations · advanced SEO · 10 weekly edits · hosting |
-| **Professional** | `$1,000 + $20 / mo` | Unlimited pages · 4 custom features · free custom domain · priority support |
-| **E-commerce** | `Custom` | Custom Shopify store · unlimited pages · CMS · shipping solutions · 24/7 support |
-
-<div align="center"><sub>Add-ons: unlimited edits (+$20/mo), extra pages / integrations / features available.</sub></div>
-
----
-
-<h2 align="center">👥 Meet the Team</h2>
+<h2 align="center">Meet the Team</h2>
 
 | Member | Role | Focus |
 |:--|:--|:--|
@@ -118,26 +94,26 @@ We craft tailored digital experiences designed to **scale, convert, and empower*
 
 <div align="center">
 
-*“At Arvo, every project is powered by collaboration.”*
+*"At Arvo, every project is powered by collaboration."*
 
 </div>
 
 ---
 
-<h2 align="center">📬 Let's Connect</h2>
+<h2 align="center">Let's Connect</h2>
 
 <div align="center">
 
-<a href="https://arvo.team/#contact"><img src="https://img.shields.io/badge/Contact-arvo.team-E11D2A?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D0D0D"/></a>
-<img src="https://img.shields.io/badge/Phone-%2B63%20997%201888%20427-0D0D0D?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366"/>
+<a href="https://arvo.team/#contact"><img src="https://img.shields.io/badge/Contact-arvo.team-2EE6A0?style=for-the-badge&logo=googlechrome&logoColor=0D0D0D&labelColor=0D0D0D"/></a>
+<img src="https://img.shields.io/badge/Phone-%2B63%20997%201888%20427-0D0D0D?style=for-the-badge&logo=whatsapp&logoColor=2EE6A0&labelColor=0D0D0D"/>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/jerrytagle/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/ArvoITServices"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://www.instagram.com/arvoi.t/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://x.com/it_vo96897"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://www.threads.com/@arvoi.t"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jerrytagle/"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+<a href="https://www.facebook.com/ArvoITServices"><img src="https://img.shields.io/badge/Facebook-0D0D0D?style=for-the-badge&logo=facebook&logoColor=1877F2"/></a>
+<a href="https://www.instagram.com/arvoi.t/"><img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
+<a href="https://x.com/it_vo96897"><img src="https://img.shields.io/badge/X-0D0D0D?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://www.threads.com/@arvoi.t"><img src="https://img.shields.io/badge/Threads-0D0D0D?style=for-the-badge&logo=threads&logoColor=white"/></a>
 
 </div>
 
@@ -145,8 +121,8 @@ We craft tailored digital experiences designed to **scale, convert, and empower*
 
 <div align="center">
 
-### Let's build something smart together. 🚀
+### Let's build something smart together.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E11D2A,100:0D0D0D&height=120&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EE6A0,100:0D0D0D&height=120&section=footer" width="100%" alt=""/>
