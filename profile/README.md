@@ -1,8 +1,8 @@
-<!-- AR.VO IT Services — organization profile -->
+<!-- AR.VO IT Solutions organization profile -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:2EE6A0&height=230&section=header&text=Arvo&fontColor=2EE6A0&fontSize=90&fontAlignY=40&desc=Smart%20Development%20|%20Clear%20Delivery%20|%20Business%20Growth&descAlignY=64&descSize=18&descColor=FFFFFF" width="100%" alt="Arvo — AR.VO IT Services"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:2EE6A0&height=230&section=header&text=Arvo&fontColor=2EE6A0&fontSize=90&fontAlignY=40&desc=Smart%20Development%20|%20Clear%20Delivery%20|%20Business%20Growth&descAlignY=64&descSize=18&descColor=FFFFFF" width="100%" alt="Arvo, AR.VO IT Solutions"/>
 
 <a href="https://arvo.team">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=2EE6A0&center=true&vCenter=true&width=760&lines=Let's+Build+Something+Smart+Together;Reliable%2C+project-driven+web+solutions;Launch+with+confidence.+Scale+with+speed." alt="Arvo tagline" />
@@ -21,15 +21,15 @@
 
 <div align="center">
 
-**We help businesses grow with proven solutions — built for reliability, security, and full customization.**
+**We help businesses grow with proven solutions, built for reliability, security, and full customization.**
 
 We craft tailored digital experiences designed to **scale, convert, and empower** your business across modern platforms.
 
 </div>
 
-> **Our Mission** — We design and deliver reliable, project-driven web solutions that empower businesses to launch with confidence, scale with speed, and continuously adapt in a rapidly evolving digital-first world.
+> **Our Mission:** We design and deliver reliable, project-driven web solutions that empower businesses to launch with confidence, scale with speed, and continuously adapt in a rapidly evolving digital-first world.
 
-> **Our Vision** — To shape a future where accessible, intelligent technology enables businesses—big or small—to scale confidently, innovate continuously, and drive lasting community value.
+> **Our Vision:** To shape a future where accessible, intelligent technology enables businesses, big or small, to scale confidently, innovate continuously, and drive lasting community value.
 
 <div align="center">
 
@@ -48,7 +48,7 @@ We craft tailored digital experiences designed to **scale, convert, and empower*
 | **Dashboards** | Custom dashboards to track, manage, and analyze operations with real-time data insights. |
 | **AI & Web3** | Cutting-edge AI and blockchain for automation, personalization, and digital trust. |
 | **Mobile Apps** | Cross-platform apps with smooth performance, engaging design, and seamless UX. |
-| **Custom Web Apps** | Tailored web applications built to your exact needs — from concept to deployment. |
+| **Custom Web Apps** | Tailored web applications built to your exact needs, from concept to deployment. |
 
 ---
 
@@ -79,22 +79,6 @@ We craft tailored digital experiences designed to **scale, convert, and empower*
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 ![Wix](https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white)
-
-</div>
-
----
-
-<h2 align="center">Meet the Team</h2>
-
-| Member | Role | Focus |
-|:--|:--|:--|
-| **Jerry T.** | Chief Executive Officer | Leads Arvo's vision & strategy — driving innovation, growth, and team alignment. |
-| **Romel C.** | Lead Developer | Sets coding standards and turns creative concepts into efficient, high-quality builds. |
-| **Darhyl B.** | Junior Back-End Developer | Builds application logic and database structures so data stays organized and correct. |
-
-<div align="center">
-
-*"At Arvo, every project is powered by collaboration."*
 
 </div>
 
