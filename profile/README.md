@@ -1,8 +1,8 @@
-<!-- AR.VO IT Solutions organization profile -->
+<!-- AR.VO I.T. Services organization profile -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:2EE6A0&height=230&section=header&text=Arvo&fontColor=2EE6A0&fontSize=90&fontAlignY=40&desc=Smart%20Development%20|%20Clear%20Delivery%20|%20Business%20Growth&descAlignY=64&descSize=18&descColor=FFFFFF" width="100%" alt="Arvo, AR.VO IT Solutions"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:2EE6A0&height=230&section=header&text=Arvo&fontColor=2EE6A0&fontSize=90&fontAlignY=40&desc=Smart%20Development%20|%20Clear%20Delivery%20|%20Business%20Growth&descAlignY=64&descSize=18&descColor=FFFFFF" width="100%" alt="Arvo, AR.VO I.T. Services"/>
 
 <a href="https://arvo.team">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=2EE6A0&center=true&vCenter=true&width=760&lines=Let's+Build+Something+Smart+Together;Reliable%2C+project-driven+web+solutions;Launch+with+confidence.+Scale+with+speed." alt="Arvo tagline" />
